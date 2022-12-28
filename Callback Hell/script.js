@@ -31,7 +31,7 @@ setTimeout(function () {
                                         hell.innerText = "1";
                                         setTimeout(function () {
 
-                                            hell.innerText = "Happy Independence Day!";
+                                            hell.innerText = "🎆 Happy Independence Day 🎆";
 
                                         }, 1000);
 
