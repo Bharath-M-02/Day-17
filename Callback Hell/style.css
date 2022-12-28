@@ -1,0 +1,11 @@
+body {
+  background: rgb(184, 184, 184);
+}
+
+.root {
+  max-width: 1200px;
+  font-size: 60px;
+
+  display: flex;
+  justify-content: center;
+}
