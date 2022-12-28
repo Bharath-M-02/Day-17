@@ -1,37 +1,37 @@
-const hell = document.querySelector(".hell");
+const root = document.querySelector(".root");
 
 
 setTimeout(function () {
-    hell.innerText = "10";
+    root.innerText = "10";
     setTimeout(function () {
-        hell.innerText = "9";
+        root.innerText = "9";
         setTimeout(function () {
 
-            hell.innerText = "8";
+            root.innerText = "8";
             setTimeout(function () {
 
-                hell.innerText = "7";
+                root.innerText = "7";
                 setTimeout(function () {
 
-                    hell.innerText = "6";
+                    root.innerText = "6";
                     setTimeout(function () {
 
-                        hell.innerText = "5";
+                        root.innerText = "5";
                         setTimeout(function () {
 
-                            hell.innerText = "4";
+                            root.innerText = "4";
                             setTimeout(function () {
 
-                                hell.innerText = "3";
+                                root.innerText = "3";
                                 setTimeout(function () {
 
-                                    hell.innerText = "2";
+                                    root.innerText = "2";
                                     setTimeout(function () {
 
-                                        hell.innerText = "1";
+                                        root.innerText = "1";
                                         setTimeout(function () {
 
-                                            hell.innerText = "🎆 Happy Independence Day 🎆";
+                                            root.innerText = "🎆 Happy Independence Day 🎆";
 
                                         }, 1000);
 
